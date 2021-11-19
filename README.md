@@ -1,4 +1,6 @@
 # System Design Class 1 
+https://www.practicalnetworking.net/
+https://www.youtube.com/c/PracticalNetworking/
 ```angular2html
 Fundamental of Networks like blood of Human
 ```
